@@ -60,7 +60,7 @@ class SetQueue(queue.Queue):
 
     .. versionadded:: 0.3
 
-    :author: Gora Khargosh <gora.khargosh@gmail.com>
+    :author: Yesudeep Mangalapilly <yesudeep@gmail.com>
     :author: Lukáš Lalinský <lalinsky@gmail.com>
     """
     def _init(self, maxsize):
